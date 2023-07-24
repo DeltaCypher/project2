@@ -11,7 +11,7 @@
 
 	<groupId>com.javanibble.maven.examples</groupId>
 	<artifactId>maven-release</artifactId>
-	<version>0.0.12-SNAPSHOT</version>
+	<version>0.0.12</version>
 
 	<name>SpringBoot Maven Release Plugin</name>
 	<description>A simple console application making use of Spring Boot illustrating the Maven Release Plugin.</description>
@@ -29,7 +29,7 @@
 		<connection>scm:git:https://github.com/DeltaCypher/project2.git</connection>
 		<developerConnection>scm:git:https://github.com/DeltaCypher/project2.git</developerConnection>
 		<url>https://github.com/DeltaCypher/project2.git</url>
-		<tag>SpringBootMavenReleasePlugin-0.0.3</tag>
+		<tag>maven-release-0.0.12</tag>
 	</scm>
 
 	<distributionManagement>
